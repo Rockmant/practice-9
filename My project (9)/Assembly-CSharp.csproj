@@ -59,9 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\superman\StrikeSkript.cs" />
-    <Compile Include="Assets\Scripts\superman\RunnersScript.cs" />
-    <Compile Include="Assets\Scripts\Pool\BallInPool.cs" />
     <Compile Include="Assets\Scripts\Sphere of unweight\SphereOfWeightScript.cs" />
+    <Compile Include="Assets\Scripts\Pool\BallInPool.cs" />
+    <Compile Include="Assets\Scripts\superman\RunnersScript.cs" />
     <Compile Include="Assets\Scripts\Sphere of unweight\ExplosionScript.cs" />
   </ItemGroup>
   <ItemGroup>
